@@ -1,6 +1,6 @@
 ---
 title: "01 Machine Learning Fundamentals"
-author: "Harshali ShankarYeram"
+author: "Harshali Shankar Yeram"
 date: "2023-05-15"
 output: 
     html_document:
